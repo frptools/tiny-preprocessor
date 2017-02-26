@@ -1,0 +1,10 @@
+{
+  "name": "tiny-preprocessor",
+  "version": "1.0.0",
+  "description": "A tiny DEV vs PROD preprocessor for JS and TS code",
+  "main": "index.js",
+  "author": "Nathan Ridley <axefrog@gmail.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/axefrog/tiny-preprocessor/issues",
+  "repository": "git@github.com:axefrog/tiny-preprocessor.git"
+}

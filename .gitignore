@@ -1,0 +1,7 @@
+node_modules/
+.build/
+.devnotes/
+.node_modules/
+lib/ts/
+lib/tests/
+*.log
